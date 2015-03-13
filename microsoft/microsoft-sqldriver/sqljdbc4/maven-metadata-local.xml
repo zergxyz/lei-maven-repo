@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>microsoft-sqldriver</groupId>
+  <artifactId>sqljdbc4</artifactId>
+  <versioning>
+    <release>0.0.1</release>
+    <versions>
+      <version>0.0.1</version>
+    </versions>
+    <lastUpdated>20150313163249</lastUpdated>
+  </versioning>
+</metadata>
