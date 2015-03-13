@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>ibm-db2driver</groupId>
+  <groupId>com.ibm</groupId>
   <artifactId>db2jcc4</artifactId>
   <version>0.0.1</version>
   <versioning>
