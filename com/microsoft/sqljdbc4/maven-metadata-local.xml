@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>microsoft-sqldriver</groupId>
+  <groupId>com.microsoft</groupId>
   <artifactId>sqljdbc4</artifactId>
   <versioning>
     <release>0.0.1</release>
