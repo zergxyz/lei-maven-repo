@@ -5,5 +5,4 @@
   <groupId>ibm-db2driver</groupId>
   <artifactId>db2jcc4</artifactId>
   <version>0.0.1</version>
-  <description>POM was created from install:install-file</description>
 </project>
