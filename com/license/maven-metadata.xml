@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.ibm</groupId>
+  <groupId>com.license</groupId>
   <artifactId>db2jcc_license_cu</artifactId>
   <version>0.0.1</version>
   <versioning>
@@ -8,6 +8,6 @@
     <versions>
       <version>0.0.1</version>
     </versions>
-    <lastUpdated>20150315162954</lastUpdated>
+    <lastUpdated>20150313162954</lastUpdated>
   </versioning>
 </metadata>
